@@ -1,6 +1,6 @@
-Reseptish
+#Reseptish
 
-Reseptish on Tietokantojen perusteet -kurssilla tehty tietokantasovellus, johon voi tallentaa reseptejä.
+[Reseptish](http://reseptish.herokuapp.com/) on Tietokantojen perusteet -kurssilla tehty tietokantasovellus, johon voi tallentaa reseptejä.
 
 Etusivulla on linkit hakuun, reseptin lisäyssivulle, tilastoon ja reseptilistaan.
 
